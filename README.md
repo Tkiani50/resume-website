@@ -7,13 +7,13 @@
 A static Multi-paged application resumer-builder developed using React.js. It uses the Music Band template designed by [Themezy](https://www.themezy.com/), ported over to React.js, and follows a customized version of the [JSON Resume schema](https://jsonresume.org/schema/) along with additional Modifications.
 
 # Views
-![Home Page](./public_assets/homepage.png)
-![Projects](./public_assets/project.png)
+![Home Page](./public_assets/s1.png)
+![Projects](./public_assets/s2.png)
 
 
 # Demo
-![Demo](./public_assets/demo.gif)
- - The App deployed at https://talhakiani.github.io/reactJs-resume-template/ .Check it Out!!!!
+![Demo](./public_assets/s3.gif)
+ - The App deployed at # .Check it Out!!!!
 
 ## Installation
 
