@@ -10,12 +10,12 @@ import "./about.scss";
 const About = () => {
   const { summary, description, img, skills } = PersonalDetails;
   const [image, setImage] = useState(null);
-  useEffect(() => {
-    img &&
-      import(`../../assets/images/${img}`).then((image) =>
-        setImage(image.default)
-      );
-  });
+  // useEffect(() => {
+  //   img &&
+  //     import(`../../assets/images/${img}`).then((image) =>
+  //       setImage(image.default)
+  //     );
+  // });
   return (
     <div className="container">
       <div className="row">
