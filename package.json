@@ -1,5 +1,5 @@
 {
-  "homepage": "https://talhakiani.github.io/reactJs-resume-template",
+  "homepage": "https://talhakiani.github.io/website",
   "name": "resumproject",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +9,9 @@
     "@testing-library/user-event": "^12.2.2",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "jquery": "^3.5.1",
+    "postcss-safe-parser": "^6.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
