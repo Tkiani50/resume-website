@@ -1,7 +1,7 @@
 export const ProjectDetails = [
   {
     id: "p1",
-    date: { day: "10", month: "Feb" },
+    date: { day: "16", month: "Feb" },
     img: "react1.png",
     title: "Micro Frontends DataSharing",
     description:
@@ -75,7 +75,6 @@ export const ArticleDetails = [
     img: "a1.jpg",
     title: "Difference between useEffect, useMemo and useCallback and when to use them in React ?",
     link: "#",
-  
   },
 ];
 export const PersonalDetails = {
